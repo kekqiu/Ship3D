@@ -1,0 +1,5 @@
+# ninja log v5
+1	10388	6587501292321489	C:/python/LunWen/GAN2Shape-main/gan2shape/stylegan2/stylegan2-pytorch/op/build/temp.win-amd64-3.7/Release/python/LunWen/GAN2Shape-main/gan2shape/stylegan2/stylegan2-pytorch/op/upfirdn2d.obj	1e0a2fc4bfd4acad
+29	18384	6587501372135354	C:/python/LunWen/GAN2Shape-main/gan2shape/stylegan2/stylegan2-pytorch/op/build/temp.win-amd64-3.7/Release/python/LunWen/GAN2Shape-main/gan2shape/stylegan2/stylegan2-pytorch/op/upfirdn2d_kernel.obj	15c7659cb92c0478
+0	10359	6587501534775621	C:/python/LunWen/GAN2Shape-main/gan2shape/stylegan2/stylegan2-pytorch/op/build/temp.win-amd64-3.7/Release/python/LunWen/GAN2Shape-main/gan2shape/stylegan2/stylegan2-pytorch/op/fused_bias_act.obj	4142e8f88eca54ca
+19	18155	6587501612570445	C:/python/LunWen/GAN2Shape-main/gan2shape/stylegan2/stylegan2-pytorch/op/build/temp.win-amd64-3.7/Release/python/LunWen/GAN2Shape-main/gan2shape/stylegan2/stylegan2-pytorch/op/fused_bias_act_kernel.obj	2d2ec8a886a5b9fc
