@@ -41,9 +41,6 @@ sh scripts/run_fishing.sh
 ```
 This would run on a GPU by default. You can view the results at `results/fishing/images` or Tensorboard.
 
-![Teaser image](output.gif)
-**Figure:** *Generation Process*
-
 **Note**:  
 - For other types of ships, you can revise the category in config. (./configs/fishing.yml)  
 - For different ship images, the quality of StyleGAN2 influence the quality of 3D generation results vary a lot, thus you may need to test each image on GAN inversion before start our code.
