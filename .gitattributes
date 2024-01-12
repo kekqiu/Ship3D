@@ -9,3 +9,4 @@ checkpoints filter=lfs diff=lfs merge=lfs -text
 data filter=lfs diff=lfs merge=lfs -text
 output.gif filter=lfs diff=lfs merge=lfs -text
 output.png filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
