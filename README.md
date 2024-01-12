@@ -24,7 +24,7 @@ In this repository, we present **Vessel-GAN**, which modeling the 3D shape of ve
 
 ## Dataset (HSSD)
 
-For HSSD dataset, you can download it from https://drive.google.com/drive/folders/1BWwvjFFiC4LSHuHeynL9i-Y8mIKJvSFo?usp=drive_link
+For HSSD dataset and checkpoints, you can download it from https://drive.google.com/drive/folders/1BWwvjFFiC4LSHuHeynL9i-Y8mIKJvSFo?usp=drive_link
 
 
 ## Training
